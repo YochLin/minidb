@@ -1,0 +1,2 @@
+# minidb
+Simple database engine
